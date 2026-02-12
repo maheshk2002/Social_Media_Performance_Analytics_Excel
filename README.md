@@ -1,74 +1,83 @@
-# 🚀 Strategic Social Media Analytics: Campaign ROI & Performance
+# 🚀 Strategic Social Media Analytics: ROI & Performance Dashboard
 
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Strategy-FFA116?style=for-the-badge&logo=google-analytics&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Executive%20Report-success?style=for-the-badge)
+![Interactive Dashboard](https://img.shields.io/badge/Interactive-Dashboard-blue?style=for-the-badge)
+![Strategy](https://img.shields.io/badge/Strategy-Campaign%20Optimization-FFA116?style=for-the-badge)
+
+> **"Turning static data into dynamic insights."** This project is an interactive analytical tool designed to evaluate the social media ecosystem of a global beverage brand (**Pepsi**).
+
+---
+
+## 📊 Dashboard In Action
+*Below is a demonstration of the interactive Slicers allowing stakeholders to drill down by Platform and Content Type.*
+
+![Dashboard Demo](dashboard_demo.gif)
+
+---
 
 ## 📌 Executive Summary
 **Author:** Mahesh Katula  
 **Focus:** Digital Marketing Strategy, ROI Optimization, Campaign Performance  
 
-In a digital landscape saturated with content, data-driven strategy is the key to visibility. This project analyzes the social media ecosystem of a major beverage brand (**Pepsi**), evaluating performance across **Instagram, Facebook, Twitter, and YouTube**. 
+In a digital landscape saturated with content, data-driven strategy is key to visibility. The primary objective of this analysis was to move beyond vanity metrics and understand the **Return on Ad Spend (ROAS)** across **Facebook, Instagram, Twitter, and YouTube**.
 
-The primary objective was to move beyond vanity metrics and understand the **Return on Ad Spend (ROAS)**, identify high-conversion content formats, and provide actionable recommendations to maximize audience engagement.
+By engineering an interactive Excel model, I identified that while budget allocation favored video-heavy platforms, **Instagram** provided the highest efficiency ratio (5.7% Engagement Rate), suggesting a need for immediate strategic realignment.
 
 ---
 
-## 🎥 Executive Walkthrough
-I have recorded a concise video breakdown of the dashboard, explaining the data logic and strategic recommendations.
+## 🎥 Full Project Walkthrough
+I have recorded a deep-dive video explaining the data logic, the "Instagram Efficiency Paradox," and strategic recommendations.
 
-### [▶️ Watch the Strategic Analysis Video](https://drive.google.com/file/d/1e-KwhWrpeNGaI4--_YquDjqIlHGraPyg/view?usp=sharing)
+### [▶️ Click Here to Watch the Analysis Video](https://drive.google.com/file/d/1e-KwhWrpeNGaI4--_YquDjqIlHGraPyg/view?usp=sharing)
 
 ---
 
 ## 📂 Project Deliverables
 | File Name | Description |
 | :--- | :--- |
-| **`Pepsi_Social_Media_Strategic_Dashboard.xlsx`** | The complete interactive dashboard featuring Pivot Tables, Slicers, and dynamic charts used for the analysis. |
+| **`Social_Media_Analytics_Dashboard.xlsx`** | The complete interactive dashboard. Features dynamic **Slicers**, **Pivot Charts**, and **Calculated Fields**. |
 
 ---
 
-## 🛠️ Analytical Framework & Excel Skills
-This project utilizes advanced Excel functions to transform raw campaign data into business intelligence:
-* **Advanced Pivot Tables:** For multi-dimensional analysis of Platform vs. Content Type.
-* **Calculated Metrics:** Engineered KPIs such as `Engagement Rate %`, `Cost Per Interaction`, and `Net Follower Velocity`.
-* **Trend Analysis:** Using moving averages to smooth out daily volatility in follower growth.
-* **Slicers & Timelines:** Creating an interactive interface for drilling down into specific quarters (e.g., `NewYearRefresh` launch window).
+## 🛠️ Technical Implementation
+This dashboard transforms raw data into business intelligence using:
+* **Interactive Slicers:** Engineered a user interface allowing dynamic filtering by *Platform*, *Month*, and *Content Type*.
+* **Advanced Pivot Tables:** Aggregated multi-dimensional data to calculate `Average Engagement` vs. `Total Impressions`.
+* **Custom Metrics:** Created calculated fields for **Efficiency Ratios** (Engagement / Ad Spend).
+* **Trend Smoothing:** Applied moving averages to follower growth data to filter out daily volatility and visualize organic lift.
 
 ---
 
-## 📊 Key Insights & Strategic Findings
+## 📊 Strategic Insights & Findings
 
-### 1️⃣ Platform Efficiency (The "Instagram Paradox")
-* **Observation:** While budget allocation was distributed, **Instagram** received a lower portion of Ad Spend compared to Twitter and YouTube.
-* **Insight:** Despite lower spend, Instagram delivered the **highest Engagement Rate (~5.7%)** and strongest organic follower growth.
-* **Conclusion:** Instagram is the most capital-efficient platform in the current mix.
+### 1️⃣ The Efficiency Paradox (Platform ROI)
+* **Observation:** Budget allocation was highest for **YouTube** and **Twitter** (Video-centric).
+* **Data Reality:** **Instagram** delivered the highest **Engagement Rate (~5.7%)** and the strongest organic follower growth, despite lower spend.
+* **Strategic Implication:** The Cost Per Interaction (CPI) on Instagram is significantly lower, indicating an arbitrage opportunity.
 
 ### 2️⃣ Content Strategy & Hashtag Optimization
-* **High-Impact Tags:** Analysis of hashtag volume vs. interaction revealed that **`#PepsiCoRefresh`** and **`#ThirstyForMore`** are the primary drivers of reach.
-* **Format Performance:** * **Carousels & Images** outperformed Videos in terms of direct engagement (Likes/Comments).
-    * **Recommendation:** Shift content production budget towards high-quality static assets and Carousels for better cost-efficiency.
+* **Viral Drivers:** Analysis of hashtag volume vs. interaction revealed that **`#PepsiCoRefresh`** and **`#ThirstyForMore`** are the primary drivers of viral reach.
+* **Format Performance:**
+    * **Carousels & Static Images** outperformed Video in direct community interaction (Likes/Comments).
+    * **Recommendation:** Shift content production budget towards high-quality static assets for better cost-efficiency.
 
 ### 3️⃣ Campaign Impact Analysis
 Three major campaigns were analyzed for performance uplift:
 | Campaign | Objective | Key Outcome |
 | :--- | :--- | :--- |
-| **`SummerSplash`** | Brand Awareness | **Highest Impressions (38k avg)**; successfully maximized top-of-funnel visibility. |
-| **`NewYearRefresh`** | Product Launch | Drove the peak follower growth week (**Dec 30, 2024**), adding **6,530** net new followers. |
+| **`SummerSplash`** | Awareness | Achieved highest **Avg. Impressions (38k)**; successfully maximized top-of-funnel visibility. |
+| **`NewYearRefresh`** | Acquisition | Drove the peak growth week (**Dec 30, 2024**), adding **6,530** net new followers. |
 | **`FestiveRadiance`** | Engagement | Showed consistent engagement uplift during the active campaign window. |
-
-### 4️⃣ Temporal Trends
-* **Follower Growth:** Growth is not linear. Significant spikes correlate directly with specific campaign launch dates, validating the effectiveness of the paid media strategy in driving community size.
 
 ---
 
-## 💡 Strategic Recommendations
+## 💡 Recommendations for Stakeholders
 Based on the quantitative analysis, the following strategic pivots are recommended:
 
-1.  **Budget Reallocation:** Shift 15-20% of the Ad Spend from YouTube/Twitter to **Instagram**. The data proves Instagram yields a higher ROI per dollar spent.
-2.  **Content Mix Optimization:** Reduce the frequency of high-production cost Videos on Twitter; replace them with **Image/Carousel** formats which show higher engagement rates.
-3.  **Hashtag Consolidation:** Double down on **`#ThirstyForMore`** in organic posts to consolidate brand conversations under one high-performing tag.
-4.  **Campaign Timing:** The `NewYearRefresh` success suggests that **end-of-year timing** is optimal for "Follower Acquisition" campaigns.
+1.  **Budget Reallocation:** Shift **15-20%** of Ad Spend from Twitter to **Instagram**. The data proves Instagram yields a higher ROI per marketing dollar.
+2.  **Content Mix:** Reduce the frequency of high-production cost Videos on Twitter; replace them with **Carousel** formats which show higher engagement rates.
+3.  **Hashtag Strategy:** Standardize the use of **`#ThirstyForMore`** across all organic posts to unify the brand conversation.
+4.  **Launch Timing:** Leverage the **End-of-Year** window (validated by `NewYearRefresh` data) for major product launches, as audience receptivity is at its peak.
 
 ---
 
