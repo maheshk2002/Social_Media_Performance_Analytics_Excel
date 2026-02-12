@@ -9,7 +9,7 @@
 ---
 
 ## 📊 Dashboard In Action
-*Below is a demonstration of the interactive Slicers allowing stakeholders to drill down by Platform and Content Type.*
+*Below is a demonstration of the interactive Slicers allowing stakeholders to drill down.*
 
 ![Dashboard Demo](dashboard_demo.gif)
 
