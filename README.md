@@ -82,4 +82,4 @@ Based on the quantitative analysis, the following strategic pivots are recommend
 ---
 
 ## 📬 Connect
-**Mahesh Katula** *Data Analyst | Supply Chain & Marketing Analytics* [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-katula-mk777)
+**Mahesh Katula** *Emerging Data Scientist | Next-Gen Analytics Enthusiast* [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-katula-mk777)
